@@ -7,11 +7,11 @@
 **Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
 
 **Links to work:** 
-1.[HR Simple arrays of sum](/code/Hackerrank/simple_arrays_of_sum.rb)
-2.[Leetcode 771](/code/Leetcode/771.rb)
-3.[HR Compare Triplets](/code/Hackerrank/compare_triplets.rb)
-4.[HR Very Big sum](/code/Hackerrank/very_big_sum.rb)
-5.[HR Diagonal difference](/code/Hackerrank/diagonal_difference.rb))
+1. [HR Simple arrays of sum](/code/Hackerrank/simple_arrays_of_sum.rb)
+2. [Leetcode 771](/code/Leetcode/771.rb)
+3. [HR Compare Triplets](/code/Hackerrank/compare_triplets.rb)
+4. [HR Very Big sum](/code/Hackerrank/very_big_sum.rb)
+5. [HR Diagonal difference](/code/Hackerrank/diagonal_difference.rb))
 
 ### Day 2: September 22, 2018
 
