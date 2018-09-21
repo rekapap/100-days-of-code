@@ -11,7 +11,7 @@
 2. [Leetcode 771](/code/Leetcode/771.rb)
 3. [HR Compare Triplets](/code/Hackerrank/compare_triplets.rb)
 4. [HR Very Big sum](/code/Hackerrank/very_big_sum.rb)
-5. [HR Diagonal difference](/code/Hackerrank/diagonal_difference.rb))
+5. [HR Diagonal difference](/code/Hackerrank/diagonal_difference.rb)
 
 ### Day 2: September 22, 2018
 
