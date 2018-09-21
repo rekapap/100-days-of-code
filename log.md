@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 21, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I made a regex pattern to solve the leetcode problem in a different way. I also wanted to use the tranpose method for a while now, and I was happy I could try it out in a problem as well!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:** 
+1.[HR Simple arrays of sum](/code/Hackerrank/simple_arrays_of_sum.rb)
+2.[Leetcode 771](/code/Leetcode/771.rb)
+3.[HR Compare Triplets](/code/Hackerrank/compare_triplets.rb)
+4.[HR Very Big sum](/code/Hackerrank/very_big_sum.rb)
+5.[HR Diagonal difference](/code/Hackerrank/diagonal_difference.rb))
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: September 22, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Links to work:** [Today's challenges](/code/)
 
 
-### Day 1: June 27, Monday
+### Day 3: September 23, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Today's challenges](/code/)
