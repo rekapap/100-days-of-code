@@ -2,7 +2,7 @@
 
 ### Day 1: September 21, 2018 
 
-**Today's Progress**: I made a regex pattern to solve the leetcode problem in a different way. I also wanted to use the tranpose method for a while now, and I was happy I could try it out in a problem as well!
+**Today's Progress**: I made a regex pattern to solve the leetcode problem in a different way. I also wanted to use the transpose method for a while now, and I was happy I could try it out in a problem as well!
 
 **Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
 
