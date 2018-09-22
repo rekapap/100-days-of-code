@@ -15,9 +15,9 @@
 
 ### Day 2: September 22, 2018
 
-**Today's Progress**: Used format/sprintf, experiments with round and float numbers. Testing time to figure out which methods is faster for a certain task.
+**Today's Progress**: Used format/sprintf, experiments with round and float numbers. Testing time to figure out which method is faster for a certain task.
 
-**Thoughts:** I spent a bit of time figuring aout how to magically add 0's to the end of a float.
+**Thoughts:** I spent a bit of time figuring out how to magically add 0's to the end of a float.
 
 **Links to work:** 
 1. [HR Plus minus](/code/Hackerrank/plusminus.rb)
