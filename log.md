@@ -15,11 +15,16 @@
 
 ### Day 2: September 22, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Used format/sprintf, experiments with round and float numbers. Testing time to figure out which methods is faster for a certain task.
 
-**Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
+**Thoughts:** I spent a bit of time figuring aout how to magically add 0's to the end of a float.
 
-**Links to work:** [Today's challenges](/code/)
+**Links to work:** 
+1. [HR Plus minus](/code/Hackerrank/plusminus.rb)
+2. [HR Staircase](/code/Hackerrank/starcase.rb)
+3. [HR Mini-Max Sum](/code/Hackerrank/mini_max_sum.rb)
+4. [HR Birtday cake candles](/code/Hackerrank/birthday_cake_candle.rb)
+5. [HR Time conversion](/code/Hackerrank/time_conversion.rb)
 
 
 ### Day 3: September 23, 2018
