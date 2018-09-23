@@ -29,8 +29,9 @@
 
 ### Day 3: September 23, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Solved a medium hard problem (about matrices) during a pair programming session.
 
-**Thoughts:** I decided to dedicate this challenge to solve random problems in various websites (Hackerrank, Exercism, Leetcode etc.) I will upload the problems and my solutions to the code directory.
+**Thoughts:** If you don't see the solution in front of your eyes, try to understand the problem better.
 
-**Link to work:** [Today's challenges](/code/)
+**Links to work:** 
+1. [HR Magic square](/code/Hackerrank/magic_square.rb)
