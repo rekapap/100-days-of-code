@@ -46,3 +46,4 @@
 **Links to work:** 
 1. [HR Grading](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/grading.rb)
 2. [HR Apple and Oranges](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/apple_and_orange.rb)
+3. [HR Kangaroo](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/kangaroo.rb)
