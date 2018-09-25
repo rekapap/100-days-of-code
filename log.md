@@ -53,7 +53,7 @@
 
 **Today's Progress**: Hash keys, group_by.
 
-**Thoughts:** Not much progress today, I was flying.
+**Thoughts:** I didn't have that much time today.
 
 **Links to work:** 
 1. [HR Sock Merchant](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/sock_merchant.rb)
