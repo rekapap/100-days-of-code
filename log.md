@@ -47,3 +47,16 @@
 1. [HR Grading](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/grading.rb)
 2. [HR Apple and Oranges](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/apple_and_orange.rb)
 3. [HR Kangaroo](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/kangaroo.rb)
+
+
+### Day 5: September 25, 2018
+
+**Today's Progress**: Hash keys, group_by.
+
+**Thoughts:** Not much progress today, I was flying.
+
+**Links to work:** 
+1. [HR Sock Merchant](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/sock_merchant.rb)
+2. [HR Drawing_book](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/drawing_book.rb)
+
+
