@@ -60,3 +60,13 @@
 2. [HR Drawing_book](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/drawing_book.rb)
 
 
+### Day 6: September 26, 2018
+
+**Today's Progress**: Rotate, [[]].
+
+**Thoughts:** I worked on school projects, and solved a few problems.
+
+**Links to work:** 
+1. [HR Circular Array Rotation](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/circular_array_rotation.rb)
+2. [HR permutation equation](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/permutation_equation.rb)
+
