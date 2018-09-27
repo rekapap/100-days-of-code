@@ -70,3 +70,12 @@
 1. [HR Circular Array Rotation](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/circular_array_rotation.rb)
 2. [HR permutation equation](https://github.com/rekapap/Problem-solving/blob/master/Hackerrank/Problem_solving/permutation_equation.rb)
 
+
+### Day 7: September 27, 2018
+
+**Today's Progress**: permutation, prime_division.
+
+**Thoughts:** I started solving two problems today, one of them is a tricky one and I still have to work on it.
+
+**Links to work:** 
+
