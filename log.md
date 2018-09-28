@@ -77,5 +77,10 @@
 
 **Thoughts:** I started solving two problems today, one of them is a tricky one and I still have to work on it.
 
-**Links to work:** 
+
+### Day 8: September 28, 2018
+
+**Today's Progress**: Palindromic numbers, balanced parentheses (Codewars).
+
+**Thoughts:** My codes are working (yay!), but they are not passing the tests for big inputs because of the time / memory constrains. I did some research / playing around about how to figure it out the byte size of an object in Ruby (or around so). I was particularly interested in integers, strings, booleans and arrays. I will try to optimise my code according to this tomorrow.
 
