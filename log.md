@@ -94,4 +94,4 @@
 
 **Thoughts:** I was playing around with bytes and bits a bit(hehe) more. I learnt about bitwise operators and I tried to implement my version of the BitArray class in Ruby. It's an implementation that is much smaller in size than an eqvialent of an original boolean array, but it's costly in execution time due to the operations with large numbers.
 
-1. [BitArray class](https://github.com/rekapap/Problem-solving/blob/master/Codewars/Codewars/bit_array.rb)
+1. [BitArray class](https://github.com/rekapap/Problem-solving/blob/master/Codewars/bit_array.rb)
