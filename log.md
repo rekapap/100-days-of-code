@@ -84,3 +84,14 @@
 
 **Thoughts:** My codes are working (yay!), but they are not passing the tests for big inputs because of the time / memory constrains. I did some research / playing around about how to figure it out the byte size of an object in Ruby (or around so). I was particularly interested in integers, strings, booleans and arrays. I will try to optimise my code according to this tomorrow.
 
+**Links to work:** 
+1. [CW All Balanced Parenthesis](https://github.com/rekapap/Problem-solving/blob/master/Codewars/all_balanced_parth.rb)
+2. [CW Numeric palindrome](https://github.com/rekapap/Problem-solving/blob/master/Codewars/largest_pali.rb)
+
+### Day 9: September 29, 2018
+
+**Today's Progress**: BitArray class, bitwise operators.
+
+**Thoughts:** I was playing around with bytes and bits a bit(hehe) more. I learnt about bitwise operators and I tried to implement my version of the BitArray class in Ruby. It's an implementation that is much smaller in size than an eqvialent of an original boolean array, but it's costly in execution time due to the operations with large numbers.
+
+1. [BitArray class](https://github.com/rekapap/Problem-solving/blob/master/Codewars/Codewars/bit_array.rb)
