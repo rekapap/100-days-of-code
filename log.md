@@ -95,3 +95,12 @@
 **Thoughts:** I was playing around with bytes and bits a bit(hehe) more. I learnt about bitwise operators and I tried to implement my version of the BitArray class in Ruby. It's an implementation that is much smaller in size than an eqvialent of an original boolean array, but it's costly in execution time due to the operations with large numbers.
 
 1. [BitArray class](https://github.com/rekapap/Problem-solving/blob/master/Codewars/bit_array.rb)
+
+### Day 10: September 30, 2018
+
+**Today's Progress**: Recursive functions, backtracking.
+
+**Thoughts:** I did a binary search function to understand better recursive functions. And try to help me solve a backtracking problem.
+
+1. [Binary search](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79_recursive.rb)
+2. [LC 79.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79.rb)
