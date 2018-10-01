@@ -103,4 +103,12 @@
 **Thoughts:** I did a binary search function to understand better recursive functions. And try to help me solve a backtracking problem.
 
 1. [Binary search](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79_recursive.rb)
-2. [LC 79.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79.rb)
+2. [LC 79.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/try_79.rb)
+
+### Day 11: October 1, 2018
+
+**Today's Progress**: Recursive functions, backtracking.
+
+**Thoughts:** I finished the backtracking problem using recursive function. First day at Makers (yay!).
+
+1. [LC 79.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79.rb)
