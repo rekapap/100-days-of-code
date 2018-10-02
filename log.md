@@ -112,3 +112,17 @@
 **Thoughts:** I finished the backtracking problem using recursive function. First day at Makers (yay!).
 
 1. [LC 79.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/79.rb)
+
+
+### Day 12: October 2, 2018
+
+**Today's Progress**: sort_by, map, transpose, inject, each_char, bitwise operators
+
+**Thoughts:** Fast exercises.
+
+1. [LC 709.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/709.rb)
+2. [LC 905.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/905.rb)
+3. [LC 804.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/804.rb)
+4. [LC 461.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/461.rb)
+5. [LC 657.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/657.rb)
+
