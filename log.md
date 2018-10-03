@@ -126,3 +126,12 @@
 4. [LC 461.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/461.rb)
 5. [LC 657.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/657.rb)
 
+
+### Day 13: October 3, 2018
+
+**Today's Progress**: bitwise operators, matrices, map, binary tree merge
+
+**Thoughts:** Exploring binary tree merge.
+
+1. [LC 832.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/832.rb)
+2. [LC 617.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/617.rb)
