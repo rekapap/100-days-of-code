@@ -135,3 +135,17 @@
 
 1. [LC 832.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/832.rb)
 2. [LC 617.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/617.rb)
+
+
+### Day 14: October 4, 2018
+
+**Today's Progress**: transpose matrix, selfdividing numbers, array partition, projection area, ranges
+
+**Thoughts:** 
+
+1. [LC 561.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/561.rb)
+2. [LC 728.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/728.rb)
+3. [LC 867.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/867.rb)
+4. [LC 883.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/883.rb)
+5. [LC 908.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/908.rb)
+
