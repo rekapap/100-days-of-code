@@ -149,3 +149,12 @@
 4. [LC 883.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/883.rb)
 5. [LC 908.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/908.rb)
 
+
+### Day 15: October 5, 2018
+
+**Today's Progress**: reverse, map, hash
+**Thoughts:** 
+
+1. [LC 557.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/557.rb)
+2. [LC 811.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/811.rb)
+3. [LC 412.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/412.rb)
