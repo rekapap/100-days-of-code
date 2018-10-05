@@ -153,6 +153,7 @@
 ### Day 15: October 5, 2018
 
 **Today's Progress**: reverse, map, hash
+
 **Thoughts:** 
 
 1. [LC 557.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/557.rb)
