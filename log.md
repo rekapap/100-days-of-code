@@ -154,8 +154,17 @@
 
 **Today's Progress**: reverse, map, hash
 
-**Thoughts:** 
 
 1. [LC 557.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/557.rb)
 2. [LC 811.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/811.rb)
 3. [LC 412.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/412.rb)
+
+
+### Day 16: October 6, 2018
+
+**Today's Progress**: bitwise operators, ord, each_char, reverse
+
+
+1. [LC 806.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/806.rb)
+2. [LC 344.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/344.rb)
+3. [LC 476.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/476.rb)
