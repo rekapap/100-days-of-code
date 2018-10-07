@@ -168,3 +168,12 @@
 1. [LC 806.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/806.rb)
 2. [LC 344.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/344.rb)
 3. [LC 476.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/476.rb)
+
+
+### Day 17: October 7, 2018
+
+**Today's Progress**: map, chars, include?, hashes
+
+
+1. [LC 500.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/500.rb)
+
