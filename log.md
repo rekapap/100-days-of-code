@@ -177,3 +177,10 @@
 
 1. [LC 500.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/500.rb)
 
+
+### Day 18: October 8, 2018
+
+**Today's Progress**: map, chars, regex
+
+
+1. [LC 917.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/917.rb)
