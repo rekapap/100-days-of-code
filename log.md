@@ -192,3 +192,12 @@
 
 
 1. [LC 566.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/566.rb)
+
+
+### Day 20: October 10, 2018
+
+**Today's Progress**: Refactoring, Classes, Encapsulations and Polymorphism
+
+
+1. [Guilded Rose Project](https://github.com/rekapap/gilded-rose)
+
