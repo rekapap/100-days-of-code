@@ -201,3 +201,11 @@
 
 1. [Guilded Rose Project](https://github.com/rekapap/gilded-rose)
 
+
+### Day 21: October 11, 2018
+
+**Today's Progress**: Inheritence, Polymorphism, protected methods
+
+
+1. [Guilded Rose Project](https://github.com/rekapap/gilded-rose)
+
