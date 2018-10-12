@@ -209,3 +209,9 @@
 
 1. [Guilded Rose Project](https://github.com/rekapap/gilded-rose)
 
+
+### Day 22: October 12, 2018
+
+**Today's Progress**: Dependency injection, dependency inversion in school exercises
+
+1. [Oyster Card Project](https://github.com/rekapap/oyster_card)
