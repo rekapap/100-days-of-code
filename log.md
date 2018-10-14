@@ -215,3 +215,17 @@
 **Today's Progress**: Dependency injection, dependency inversion in school exercises
 
 1. [Oyster Card Project](https://github.com/rekapap/oyster_card)
+
+
+### Day 23: October 13, 2018
+
+**Today's Progress**: Takeaway challenge
+
+1. [Take Away Project](https://github.com/rekapap/takeaway-challenge)
+
+
+### Day 24: October 14, 2018
+
+**Today's Progress**: Takeaway challenge
+
+1. [Take Away Project](https://github.com/rekapap/takeaway-challenge)
