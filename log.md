@@ -229,3 +229,11 @@
 **Today's Progress**: Takeaway challenge
 
 1. [Take Away Project](https://github.com/rekapap/takeaway-challenge)
+
+
+### Day 25: October 15, 2018
+
+**Today's Progress**: Roman integer conversion, school 
+
+1. [LC 13.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/13.rb)
+
