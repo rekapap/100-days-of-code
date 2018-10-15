@@ -233,7 +233,7 @@
 
 ### Day 25: October 15, 2018
 
-**Today's Progress**: Roman integer conversion, school 
+**Today's Progress**: Roman to integer conversion, school 
 
 1. [LC 13.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/13.rb)
 
