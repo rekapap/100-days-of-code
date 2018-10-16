@@ -237,3 +237,9 @@
 
 1. [LC 13.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/13.rb)
 
+
+### Day 26: October 16, 2018
+
+**Today's Progress**: TCP servers, protocols
+
+1. [Basic Note app project](https://github.com/rekapap/Intro_to_the_web_servers)
