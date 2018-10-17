@@ -243,3 +243,10 @@
 **Today's Progress**: TCP servers, protocols
 
 1. [Basic Note app project](https://github.com/rekapap/Intro_to_the_web_servers)
+
+
+### Day 27: October 17, 2018
+
+**Today's Progress**: sinatra, capybara
+
+1. [Battle project](https://github.com/rekapap/battle)
