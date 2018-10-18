@@ -250,3 +250,11 @@
 **Today's Progress**: sinatra, capybara
 
 1. [Battle project](https://github.com/rekapap/battle)
+
+
+
+### Day 28: October 18, 2018
+
+**Today's Progress**: MVC, views, sinatra, capybara
+
+1. [Battle project](https://github.com/rekapap/battle)
