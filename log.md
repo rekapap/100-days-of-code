@@ -252,9 +252,16 @@
 1. [Battle project](https://github.com/rekapap/battle)
 
 
-
 ### Day 28: October 18, 2018
 
 **Today's Progress**: MVC, views, sinatra, capybara
 
 1. [Battle project](https://github.com/rekapap/battle)
+
+
+### Day 29: October 19, 2018
+
+**Today's Progress**: iterations, arrays
+
+
+1. [LC 860.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/860.rb)
