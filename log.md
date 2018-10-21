@@ -265,3 +265,19 @@
 
 
 1. [LC 860.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/860.rb)
+
+
+### Day 30: October 20, 2018
+
+**Today's Progress**: RPS challenge
+
+
+1. [RPS challenge](https://github.com/rekapap/rps-challenge)
+
+
+### Day 31: October 21, 2018
+
+**Today's Progress**: RPS challenge
+
+
+1. [RPS challenge](https://github.com/rekapap/rps-challenge)
