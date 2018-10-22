@@ -263,14 +263,12 @@
 
 **Today's Progress**: iterations, arrays
 
-
 1. [LC 860.](https://github.com/rekapap/Problem-solving/blob/master/Leetcode/860.rb)
 
 
 ### Day 30: October 20, 2018
 
 **Today's Progress**: RPS challenge
-
 
 1. [RPS challenge](https://github.com/rekapap/rps-challenge)
 
@@ -279,5 +277,11 @@
 
 **Today's Progress**: RPS challenge
 
-
 1. [RPS challenge](https://github.com/rekapap/rps-challenge)
+
+
+### Day 32: October 22, 2018
+
+**Today's Progress**: Postgre
+
+1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
