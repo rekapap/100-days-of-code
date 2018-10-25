@@ -292,3 +292,17 @@
 **Today's Progress**: Test Database
 
 1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
+
+
+### Day 34: October 24, 2018
+
+**Today's Progress**: school project
+
+1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
+
+
+### Day 35: October 25, 2018
+
+**Today's Progress**: school project
+
+1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
