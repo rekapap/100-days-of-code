@@ -306,3 +306,10 @@
 **Today's Progress**: school project
 
 1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
+
+
+### Day 36: October 26, 2018
+
+**Today's Progress**: school project
+
+1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
