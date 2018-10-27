@@ -313,3 +313,10 @@
 **Today's Progress**: school project
 
 1. [Bookmark challenge](https://github.com/rekapap/bookmark_manager)
+
+
+### Day 37: October 27, 2018
+
+**Today's Progress**: school project
+
+1. [Chitter challenge](https://github.com/rekapap/chitter-challenge)
