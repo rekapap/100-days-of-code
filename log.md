@@ -327,3 +327,9 @@
 **Today's Progress**: school project
 
 1. [Chitter challenge](https://github.com/rekapap/chitter-challenge)
+
+
+### Day 39: October 29, 2018
+
+**Today's Progress**: learning JavaScript on w3school.com
+
