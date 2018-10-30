@@ -333,3 +333,10 @@
 
 **Today's Progress**: learning JavaScript on w3school.com
 
+
+### Day 40: October 30, 2018
+
+**Today's Progress**: school projects
+
+1. [FizzBuzz](https://github.com/rekapap/fizzBuzzJs)
+2. [Thermostat](https://github.com/rekapap/Thermostat)
