@@ -340,3 +340,10 @@
 
 1. [FizzBuzz](https://github.com/rekapap/fizzBuzzJs)
 2. [Thermostat](https://github.com/rekapap/Thermostat)
+
+
+### Day 41: October 31, 2018
+
+**Today's Progress**: doing FizzBUzz in a new languages, thermostat project
+
+2. [Thermostat](https://github.com/rekapap/Thermostat)
