@@ -346,4 +346,11 @@
 
 **Today's Progress**: doing FizzBUzz in a new languages, thermostat project
 
-2. [Thermostat](https://github.com/rekapap/Thermostat)
+1. [Thermostat](https://github.com/rekapap/Thermostat)
+
+
+### Day 42: November 1, 2018
+
+**Today's Progress**: pairing on Thermostat
+
+1. [Thermostat](https://github.com/rekapap/Thermostat)
