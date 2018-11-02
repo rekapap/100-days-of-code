@@ -354,3 +354,10 @@
 **Today's Progress**: pairing on Thermostat
 
 1. [Thermostat](https://github.com/rekapap/Thermostat)
+
+
+### Day 43: November 2, 2018
+
+**Today's Progress**: http servers
+
+1. [HTTP Router](https://github.com/rekapap/Http_router)
