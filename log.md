@@ -361,3 +361,19 @@
 **Today's Progress**: http servers
 
 1. [HTTP Router](https://github.com/rekapap/Http_router)
+
+
+### Day 44: November 3, 2018
+
+**Today's Progress**: javascript
+
+1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
+
+
+
+### Day 45: November 4, 2018
+
+**Today's Progress**: javascript
+
+1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
+
