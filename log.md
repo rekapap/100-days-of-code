@@ -377,3 +377,11 @@
 
 1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
 
+
+
+### Day 46: November 5, 2018
+
+**Today's Progress**: Makers BNB tteam project
+
+1. [Makers BNB](https://github.com/toddpla/makersbnb)
+
