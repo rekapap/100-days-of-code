@@ -381,7 +381,13 @@
 
 ### Day 46: November 5, 2018
 
-**Today's Progress**: Makers BNB tteam project
+**Today's Progress**: Makers BNB team project
 
 1. [Makers BNB](https://github.com/toddpla/makersbnb)
 
+
+### Day 47: November 6, 2018
+
+**Today's Progress**: Makers BNB team project
+
+1. [Makers BNB](https://github.com/toddpla/makersbnb)
