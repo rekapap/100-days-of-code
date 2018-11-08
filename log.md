@@ -398,3 +398,10 @@
 **Today's Progress**: Makers BNB team project
 
 1. [Makers BNB](https://github.com/toddpla/makersbnb)
+
+
+### Day 49: November 8, 2018
+
+**Today's Progress**: Makers BNB team project
+
+1. [Makers BNB](https://github.com/toddpla/makersbnb)
