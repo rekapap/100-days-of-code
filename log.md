@@ -405,3 +405,24 @@
 **Today's Progress**: Makers BNB team project
 
 1. [Makers BNB](https://github.com/toddpla/makersbnb)
+
+
+### Day 50: November 9, 2018
+
+**Today's Progress**: Makers BNB team project
+
+1. [Makers BNB](https://github.com/toddpla/makersbnb)
+
+
+### Day 51: November 11, 2018
+
+**Today's Progress**: javascript
+
+1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
+
+
+### Day 52: November 12, 2018
+
+**Today's Progress**: javascript
+
+1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
