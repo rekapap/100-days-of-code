@@ -425,4 +425,18 @@
 
 **Today's Progress**: javascript
 
-1. [Bowling Challenge](https://github.com/rekapap/bowling-challenge)
+1. [NoteApp](https://github.com/felixjtdb/Notes-Javascript)
+
+
+### Day 53: November 13, 2018
+
+**Today's Progress**: javascript
+
+1. [NoteApp](https://github.com/felixjtdb/Notes-Javascript)
+
+
+### Day 54: November 14, 2018
+
+**Today's Progress**: javascript
+
+1. [NoteApp JS](https://github.com/rekapap/NoteApp-JS)
